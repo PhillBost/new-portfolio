@@ -3,7 +3,7 @@ import portrait from "../assets/img/seniorphoto.jpg"
 function AboutMe() {
     return (
         <div>
-            <h1 class="grid grid-cols-1 text-center w-full pb-6">
+            <h1 class="grid grid-cols-1 text-center w-full pb-6 z-20">
                 About Me
             </h1>
             <div class="grid grid-cols-1 sm:grid-cols-2">
