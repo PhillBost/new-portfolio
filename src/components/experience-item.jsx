@@ -2,7 +2,7 @@ function experienceItem() {
 return(
     <div class="grid xl:grid-cols-3  grid-cols-1 h-auto pb-30 gap-y-20  border-l-4 border-l-gray-600">
         <div class="flex w-100 h-auto pb-10">
-            <div class="left-25 w-90 pb-10 absolute italic text-right">
+            <div class="sm:left-25 left-0 w-90 pb-10 absolute italic text-right">
                 <h2>Pace Industries ~ IT Administrator Intern</h2>
                 <h2>07/2022 - 08/2022</h2>
                 <div class="flex text-center gap-1">
@@ -23,7 +23,7 @@ return(
         </div>
 
         <div class="flex w-100 h-auto pb-10">
-            <div class="left-25 w-90 absolute italic text-right">
+            <div class="sm:left-25 left-0 w-90 absolute italic text-right">
                 <h2>Pace Industries ~ Software & IT Developer</h2>
                 <h2>06/2025 - present</h2>
                 <div class="flex text-center gap-1">
