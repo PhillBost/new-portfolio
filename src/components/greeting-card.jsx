@@ -46,7 +46,7 @@ function CursorBlinker({animate}) {
         <motion.span
             variants={cursorVariants}
             animate={animate}
-            className="inline-block h-5 w-[1px] bg-black align-middle"
+            className="inline-block h-5 w-[1px] bg-white align-middle"
         />
     );
 }

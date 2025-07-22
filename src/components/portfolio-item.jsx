@@ -1,6 +1,6 @@
 function PortfolioItem({ projectsrc, projectdesc }) {
   return (
-    <div className="relative group h-64 w-[100vw] sm:w-[50vw] md:w-[33vw] overflow-hidden">
+    <div className="relative group h-90 w-[100vw] sm:w-[50vw] md:w-[33vw] overflow-hidden">
       
       {/* Background Layer */}
       <div

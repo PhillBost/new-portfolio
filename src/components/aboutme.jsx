@@ -3,7 +3,7 @@ import portrait from "../assets/img/seniorphoto.jpg"
 function AboutMe() {
     return (
         <div>
-            <h1 class="grid grid-cols-1 text-center w-full pb-6 z-20">
+            <h1 class="grid grid-cols-1 text-2xl text-center w-full pb-6 z-20">
                 About Me
             </h1>
             <div class="grid grid-cols-1 sm:grid-cols-2">
@@ -12,9 +12,22 @@ function AboutMe() {
                 </div>
                 <div class="text-center">
                     <p class="pr-6 pt-6">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis odio nec ligula molestie viverra. Ut a libero porttitor, euismod nunc et, interdum lacus. Sed rhoncus quam a mauris viverra viverra. In viverra finibus ex auctor ornare. Nulla aliquam 
-                    eget mauris iaculis hendrerit. Sed in semper justo, sed laoreet massa. Proin mattis risus nec enim fermentum posuere. Morbi et libero vehicula velit vestibulum dignissim sit amet sit amet quam. Donec auctor auctor tortor quis vestibulum. Nulla metus lectus, 
-                    tempor sit amet dictum consectetur, hendrerit quis est. Praesent convallis pellentesque suscipit. Aenean at metus accumsan odio fermentum iaculis id eu dui. Donec at erat eros. 
+                        I'm a student at Purdue University studying Computer Science with a concentration 
+                        in software engineering and a background in cybersecurity coursework. While I've 
+                        been coding since I was 14, my interest in Computer Science as a career path was 
+                        sparked through my participation in competitive high school robotics, where 
+                        in 2021 I was elected as the lead of software. Between 2019-2021, I could usually 
+                        be found carrying an old Dell laptop around the robotics shop, working with experienced
+                        and aspiring engineers from a variety of fields. Fast forward to today, I plan to spend 
+                        my 20's mastering as many programming mediums and tools as possible, so that whenever an interesting 
+                        project comes to my mind, I can sit down and create it.
+
+                        If you'd like to reach out, shoot an email to 
+                        <p class="underline">
+                            pbostic789@gmail.com
+                        </p>
+                        
+                        
                     </p>
                 </div>
             </div>
